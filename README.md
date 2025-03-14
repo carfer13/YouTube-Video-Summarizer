@@ -8,6 +8,6 @@ This project is a Streamlit app that summarizes YouTube videos using LangChain a
 - Simple UI with Streamlit.
 
 ## 🛠️ Installation
-1. Clone the repository: git clone https://github.com/carfer13/YouTube-Videos-Summarizer.git
+1. Clone the repository: git clone https://github.com/carfer13/YouTube-Video-Summarizer.git
 2. Install dependencies: pip install -r requirements.txt
 3. Run the app: streamlit run app.py
