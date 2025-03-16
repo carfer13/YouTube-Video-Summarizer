@@ -49,7 +49,6 @@ if st.button("Summarize"):
                 output_summary = chain.invoke(docs)
 
                 st.video(url)
-                st.success(docs)
                 st.success(output_summary['output_text'])
         except Exception as e:
             st.exception(f"Exeption: {e}")
